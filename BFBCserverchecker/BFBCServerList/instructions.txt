@@ -1,0 +1,11 @@
+Русские геймеры навсегда - Объединение игроков России
+
+- Убедитесь.exe что ealist и BFBCServerList.exe находятся в одной папке. 
+- апустите (дважды щелкните :D) BFBCServerList.exe.
+- Вот и все
+
+- Ensure ealist.exe and BFBCServerList.exe are in the same folder.
+- Run (double-click :D) BFBCServerList.exe.
+- That's it.
+
+
